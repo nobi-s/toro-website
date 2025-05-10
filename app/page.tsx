@@ -46,10 +46,10 @@ export default function Home() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             {/* Service Card 1 */}
-            <div className="group relative overflow-hidden rounded-lg border border-primary/20 bg-gradient-to-br from-primary/70 to-primary/50 backdrop-blur-sm hover:border-primary/40 transition-all duration-300">
+            <div className="group relative overflow-hidden rounded-lg border border-primary/20 bg-gradient-to-br from-primary/50 to-primary/30 backdrop-blur-sm hover:border-primary/40 transition-all duration-300">
               <div className="p-8">
                 <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 rounded-full bg-white/60 flex items-center justify-center mr-4 group-hover:bg-primary/30 transition-all duration-300">
+                  <div className="w-12 h-12 rounded-full bg-white/60 flex items-center justify-center mr-4 group-hover:bg-primary/100 transition-all duration-300">
                     <ServiceIcon type="product" className="w-6 h-6 text-dark-gray" />
                   </div>
                   <h3 className="text-xl font-semibold">プロダクト開発</h3>
@@ -62,10 +62,10 @@ export default function Home() {
             </div>
 
             {/* Service Card 2 */}
-            <div className="group relative overflow-hidden rounded-lg border border-primary/20 bg-gradient-to-br from-primary/70 to-primary/50 backdrop-blur-sm hover:border-primary/40 transition-all duration-300">
+            <div className="group relative overflow-hidden rounded-lg border border-primary/20 bg-gradient-to-br from-primary/50 to-primary/30 backdrop-blur-sm hover:border-primary/40 transition-all duration-300">
               <div className="p-8">
                 <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 rounded-full bg-white/60 flex items-center justify-center mr-4 group-hover:bg-primary/30 transition-all duration-300">
+                  <div className="w-12 h-12 rounded-full bg-white/60 flex items-center justify-center mr-4 group-hover:bg-primary/100 transition-all duration-300">
                     <ServiceIcon type="consulting" className="w-6 h-6 text-dark-gray" />
                   </div>
                   <h3 className="text-xl font-semibold">ITコンサルティング</h3>
@@ -78,10 +78,10 @@ export default function Home() {
             </div>
 
             {/* Service Card 3 */}
-            <div className="group relative overflow-hidden rounded-lg border border-primary/20 bg-gradient-to-br from-primary/70 to-primary/50 backdrop-blur-sm hover:border-primary/40 transition-all duration-300">
+            <div className="group relative overflow-hidden rounded-lg border border-primary/20 bg-gradient-to-br from-primary/50 to-primary/30 backdrop-blur-sm hover:border-primary/40 transition-all duration-300">
               <div className="p-8">
                 <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 rounded-full bg-white/60 flex items-center justify-center mr-4 group-hover:bg-primary/30 transition-all duration-300">
+                  <div className="w-12 h-12 rounded-full bg-white/60 flex items-center justify-center mr-4 group-hover:bg-primary/100 transition-all duration-300">
                     <ServiceIcon type="development" className="w-6 h-6 text-dark-gray" />
                   </div>
                   <h3 className="text-xl font-semibold">受託開発</h3>
@@ -94,10 +94,10 @@ export default function Home() {
             </div>
 
             {/* Service Card 4 */}
-            <div className="group relative overflow-hidden rounded-lg border border-primary/20 bg-gradient-to-br from-primary/70 to-primary/50 backdrop-blur-sm hover:border-primary/40 transition-all duration-300">
+            <div className="group relative overflow-hidden rounded-lg border border-primary/20 bg-gradient-to-br from-primary/50 to-primary/30 backdrop-blur-sm hover:border-primary/40 transition-all duration-300">
               <div className="p-8">
                 <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 rounded-full bg-white/60 flex items-center justify-center mr-4 group-hover:bg-primary/30 transition-all duration-300">
+                  <div className="w-12 h-12 rounded-full bg-white/60 flex items-center justify-center mr-4 group-hover:bg-primary/100 transition-all duration-300">
                     <ServiceIcon type="innovation" className="w-6 h-6 text-dark-gray" />
                   </div>
                   <h3 className="text-xl font-semibold">テクノロジー革新</h3>
